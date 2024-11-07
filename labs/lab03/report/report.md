@@ -108,23 +108,26 @@ header-includes:
 
 1. Выполнение git pull (см Рис 1)
 
-![git pull](image/hgh.png){#fig:001 width=70%}
+![git pull](image/hgh.png){#fig:001 width=70%}    
 git pull (рис 1)
 2. Выполнение make (рис 2)
 
-![Make](image/make.png){#fig:002 width=70%}
+![Make](image/make.png){#fig:002 width=70%}    
 Make (Рис 2)
 3. Удаление файлов (Рис 3)
 
-![Удаление файлов](image/delete.png){#fig:003 width=70%}
+![Удаление файлов](image/delete.png){#fig:003 width=70%}    
 Удаление файлов (Рис 3)
+
 4. Открыть файл report.md (Рис 4)
 
-![report.md](image/report md.png){#fig:004 width=70%}
+![report.md](image/report md.png){#fig:004 width=70%}    
 report.md (Рис 4)
+
 5. Заполнить и скомплирировать отчет (см Рис 5)
-![report mdd](image/report mdd.png){#fig:005 width=70%}
+![report mdd](image/report mdd.png){#fig:005 width=70%}    
 report mdd (Рис 5)
+
 6. Загрузить файлы в гитхаб (см Рис 6)
 ![
 
